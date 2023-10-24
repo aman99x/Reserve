@@ -51,7 +51,7 @@ export const SearchBus = () => {
   };
   const searchBusHandler = async () => {
     const fetchdata = await fetch(
-      "https://reserve-backend-8gdh.onrender.com/getDetails",
+      "https://reverve-bus-backend.onrender.com/getDetails",
       {
         method: "POST",
         body: JSON.stringify(details),
