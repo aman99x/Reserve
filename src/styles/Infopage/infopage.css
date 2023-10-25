@@ -1,6 +1,6 @@
-.info-page-container {
+/* .info-page-container {
     display: flex;
-}
+} */
 
 .info-page-left {
     width: 60%;
@@ -76,7 +76,7 @@
     min-height: 200px;
     border: 2px solid grey;
     padding: 10px;
-    margin-left: 10%;
+    margin-left: 100%;
     margin-top: 10%;
 }
 

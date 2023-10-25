@@ -12,9 +12,9 @@ export const HomeCustomers = () => {
         </h1>
       </div>
       <div className="cards" style={{ backgroundColor: "#d3d3d345" }}>
-        <CustomerCard />
-        <CustomerCard />
-        <CustomerCard />
+        <CustomerCard Name="Nidhi Singh" Customer="customer since 2020" Star="★ 4.5" />
+        <CustomerCard Name = "Arun Jaishwal" Customer="customer since 2021" Star="★ 4.7"/>
+        <CustomerCard Name = "Dimple Rai" Customer="customer since 2022" Star="★ 4.4"/>
       </div>
     </div>
   );

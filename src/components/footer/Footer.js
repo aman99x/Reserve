@@ -23,7 +23,7 @@ export const Footer = () => {
                 cities.
                 <br />
                 <br />
-                reserve.bus@erserve.com
+                reserve.bus@reserve.com
               </p>
             </div>
             <div className="all-content">

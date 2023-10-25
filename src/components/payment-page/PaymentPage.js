@@ -30,11 +30,11 @@ const PaymentPage = () => {
           </div>
           <BookingDetails userDetails={userDetails} />
         </div>
-        <div className="lower-booking">
+        {/* <div className="lower-booking">
           <div className="bus-card-container">
             <BusCardLeft data={selectedBus} />
           </div>
-        </div>
+        </div> */}
       </div>
     </div>
   );
